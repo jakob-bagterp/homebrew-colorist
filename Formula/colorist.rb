@@ -1,4 +1,4 @@
-class ColoristForPython < Formula
+class Colorist < Formula
   include Language::Python::Virtualenv
 
   desc "Make it easy and fast to print terminal messages in colors."
