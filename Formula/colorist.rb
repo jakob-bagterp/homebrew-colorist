@@ -3,8 +3,8 @@ class Colorist < Formula
 
   desc "Make it easy and fast to print terminal messages in colors"
   homepage "https://github.com/jakob-bagterp/colorist-for-python"
-  url "https://github.com/jakob-bagterp/colorist-for-python/releases/download/v1.0.2/colorist-1.0.2.tar.gz"
-  sha256 "a6bc0e0a0b41155b503ac50e9afbe339190a52779f113c5ef8a062df5fc825b8"
+  url "https://github.com/jakob-bagterp/colorist-for-python/releases/download/v1.1.0/colorist-1.1.0.tar.gz"
+  sha256 "7c81e0525405d5aba8df9e47d7e78e6183fc29b99040474dcd8d3946162df94f"
   license "MIT"
 
   depends_on "python@3.9"
