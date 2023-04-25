@@ -1,3 +1,9 @@
+[![Latest version](https://img.shields.io/static/v1?label=version&message=1.5.2&color=yellowgreen)](https://github.com/jakob-bagterp/colorist-for-python/releases/latest)
+![Python 2.7 | 3.10 | 3.11 or higher](https://img.shields.io/static/v1?label=python&message=2.7%20|%203.10%20|%203.11%2B&color=blueviolet)
+[![BSD-3-Clause license](https://img.shields.io/static/v1?label=license&message=BSD-3-Clause&color=blue)](https://github.com/jakob-bagterp/colorist-for-python/blob/master/LICENSE.md)
+[![Codecov](https://img.shields.io/codecov/c/gh/jakob-bagterp/colorist-for-python?label=codecov&logo=codecov)](https://codecov.io/gh/jakob-bagterp/colorist-for-python)
+[![Test](https://github.com/jakob-bagterp/colorist-for-python/actions/workflows/test.yml/badge.svg)](https://github.com/jakob-bagterp/colorist-for-python/actions/workflows/test.yml)
+
 # About
 This repository is a Homebrew tap of 🌈 [Colorist for Python](https://github.com/jakob-bagterp/colorist-for-python) 🌈.
 
