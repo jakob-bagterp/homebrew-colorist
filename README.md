@@ -22,4 +22,4 @@ And then install:
 brew install colorist
 ```
 
-For other methods of installation and more information, go to the [project page](https://github.com/jakob-bagterp/colorist-for-python).
+For other methods of installation and more information, go to the [project page](https://jakob-bagterp.github.io/colorist-for-python/).
