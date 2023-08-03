@@ -7,7 +7,7 @@
 [![Downloads](https://static.pepy.tech/badge/colorist)](https://pepy.tech/project/colorist)
 
 # About
-This repository is a Homebrew tap of 🌈 [Colorist for Python](https://github.com/jakob-bagterp/colorist-for-python) 🌈.
+This repository is a Homebrew tap of 🌈 [Colorist for Python](https://jakob-bagterp.github.io/colorist-for-python/) 🌈.
 
 # How to Install
 If you already have installed the [Homebrew](https://brew.sh) package manager for Mac and Linux, execute this terminal command to tap Timer for Python:
